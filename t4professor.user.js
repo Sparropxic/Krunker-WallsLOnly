@@ -1,8 +1,14 @@
 // ==UserScript==
-// @name         Krunker.io Tools (Walls only) 
+// @name         Krunker.io Tools (Walls only)
+// @namespace    https://github.com/t4professor/Krunker-WallsLOnly
 // @description  Krunker.io Tools - ESP - v1.2.3
 // @version      1.0
 // @author       t4professor
+// @supportURL   https://github.com/t4professor/Krunker-WallsLOnly/issues
+// @updateURL    https://github.com/t4professor/Krunker-WallsLOnly/raw/master/t4professor.user.js
+// @downloadURL  https://github.com/t4professor/Krunker-WallsLOnly/raw/master/t4professor.user.js
+// @compatible   chrome
+// @license      MIT
 // @match        *://krunker.io/*
 // @exclude      *://krunker.io/social*
 // @grant        GM_xmlhttpRequest
