@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Krunker.io Tools (Walls only)
+// @name         Krunker Tools (Walls/ESP only)
 // @namespace    https://github.com/t4professor/Krunker-WallsLOnly
-// @description  Krunker.io Tools - ESP - v1.2.3
-// @version      1.0
+// @description  Krunker.io Tools - ESP - (v1.2.* ingame)
+// @version      1.1
 // @author       t4professor
 // @supportURL   https://github.com/t4professor/Krunker-WallsLOnly/issues
 // @updateURL    https://github.com/t4professor/Krunker-WallsLOnly/raw/master/t4professor.user.js
